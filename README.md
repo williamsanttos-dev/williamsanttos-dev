@@ -8,10 +8,14 @@
 
 ![Tecnologias](https://skillicons.dev/icons?i=typescript,nodejs,nestjs,jest,prisma,postgres,git,docker,react,&theme=dark)
 
+---
+
 ## ✉️ Onde me encontrar
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/william-santos/)
 [![E-Mail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:williamsantoscdev@gmail.com)
+
+---
 
 ## 📊 Estatísticas
 
